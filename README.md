@@ -1,4 +1,4 @@
-# ecommerce app
+# Eyewear Ecommerce App
 Simple ecommerce react js app with firebase [typescript].
 
 ![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny1.png)
